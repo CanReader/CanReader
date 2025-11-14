@@ -8,7 +8,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="Twitter Badge" width="60"/>
     </a>
     <a href="http://canberkpitirli.com">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Twitter Badge" width="60"/>
+      <img src="https://cdn-icons-png.freepik.com/512/5082/5082281.png" alt="Website Badge" width="60"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -82,7 +82,23 @@ Linux has been always a passion for me since my childhood. I've firstly started 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=CanReader&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanReader&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=CanReader&theme=tokyonight)
+---
 
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=CanReader&theme=tokyonight&no-frame=true&margin-w=5)
+
+---
+
+### 🌱 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark)
+
+---
+
+### 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=CanReader&color=blueviolet)
