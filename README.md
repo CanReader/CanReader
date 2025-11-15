@@ -1,104 +1,129 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/bereader/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="60"/>
-    </a>
-    <a href="https://x.com/can_reader">
-      <img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="Twitter Badge" width="60"/>
-    </a>
-    <a href="http://canberkpitirli.com">
-      <img src="https://cdn-icons-png.freepik.com/512/5082/5082281.png" alt="Website Badge" width="60"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<!-- HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+
+# 👋 Hey, I’m **Canberk**  
+### Crafting high-performance systems, engines & modern software  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+
+<br/>
+
+<!-- BADGES -->
+<p>
+  <a href="https://www.linkedin.com/in/bereader/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://x.com/can_reader">
+    <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://canberkpitirli.com">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=CanReader&style=flat-square&color=blue" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<!-- INTRO -->
+## 🧩 About Me
 
-Hi, I’m **Canberk** — a multidisciplinary software developer from Turkey who loves building things from the ground up and understanding systems deeply.
+I’m **Canberk**, a multidisciplinary developer passionate about building **fast**, **efficient**, and **deeply engineered** systems.  
+I love understanding how things work under the hood — from CPU instructions to real-time rendering pipelines.
 
-I work across a wide range of technologies, with a strong focus on **C++**, **systems programming**, and **high-performance application development**. Over the years I’ve also built projects with **C#**, **Java**, **Python**, **Rust**, and modern web technologies, from desktop applications to backend services and cross-platform tools.
+My expertise covers:
 
-What drives me is creating **well-designed, efficient, and reliable software**. I enjoy:
-- 🧠 Architecting complex systems and solving deep technical problems  
-- 🛠️ Building tools, libraries, and frameworks that make development smoother  
-- 🚀 Exploring low-level concepts, compilers, optimization, and modern language features  
-- 📚 Continuously learning and sharing knowledge through projects and documentation  
+- ⚙ **C++**, **Rust**, **C#** — performance, engines, low-level development  
+- 🎮 Real-time systems, engine architecture, rendering fundamentals  
+- 🧵 Concurrent programming, memory management, systems design  
+- 🌐 Backend & cross-platform application development  
+- 🐧 Linux power-user — Arch + Hyprland  
+- 🚀 Building tools, frameworks, and custom solutions from scratch
 
-I’ve worked on projects involving:
-- Application & desktop development (C++, C#, Java)  
-- Systems-level programming & performance-oriented code  
-- Backend logic, networking, and infrastructure  
-- Real-time applications, simulations, and engine architecture  
-- Cross-platform development and Linux environment customization  
-
-Currently, I’m focused on improving my expertise in:
-- ⚙️ Modern C++ and large-scale architecture  
-- 🦀 Rust and systems/backend development  
-- 🌐 Building reliable, production-grade software  
-- 🛠️ Creating educational content and technical resources  
-
-My goal is to grow as a **versatile software engineer** who can adapt quickly, learn fast, and tackle challenging technical problems — whether in backend development, desktop applications, high-performance systems, or emerging technologies.
-
-Feel free to explore my work here on GitHub or visit my portfolio: **[canberkpitirli.com](https://canberkpitirli.com)**.
-
+I’m driven by the idea of creating **high-quality, clean, and scalable software** that feels great to build and even better to use.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg" title="Rust" alt="Rust" width="45" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,java,python,ts,js,bash&theme=dark" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,visualstudio,git,github,gitlab,cmake,docker,postman,nginx,sqlite,postgres&theme=dark" />
+
+### **Frameworks**
+<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" />
+
+### **Technologies**
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" /><br/>
+
+<img src="https://skillicons.dev/icons?i=qt,electron&theme=dark" />
+
+<div>
+  <img src="https://www.iconshock.com/image/RealVista/Development/directx" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vulkan/vulkan-original.svg" height="60">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/opengl/opengl-plain.svg" height="60">&nbsp;
 </div>
+
+</div>
+
 ---
 
-### :hammer_and_wrench: Technologies I experienced :
+## 🖥️ Featured Skillset Highlights
+
+- 🔹 High-performance C++ & Rust systems  
+- 🔹 Engine architecture & rendering pipelines  
+- 🔹 Multithreading, concurrency & memory optimization  
+- 🔹 Backend logic, networking, protocol design  
+- 🔹 UI/UX for desktop applications  
+- 🔹 Linux customization, WM setups, tooling automation  
+
+---
+
+## 🎨 I use Arch btw
+
 <div align="center">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/video-games/unreal-engine-qdh1c46xy8c1nedruo2v5.png/unreal-engine-xwo7bd8vu6fzpnkcifgtu.png?_a=DATAg1AAZAA0" width="30%"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="80"/>  
+  <h3>By the way… I use Arch, and Hyprland ✨</h3>
+  <img src="Assets/I-Use-Arch-Btw.gif" width="500"/>
 </div>
----
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="30"/> I use Arch BTW,
-Linux has been always a passion for me since my childhood. I've firstly started using Ubuntu, and tried other distros. Now my favourite distro is Arch Linux with Hyprland window manager. 
-![I use arch btw](Assets/I-Use-Arch-Btw.gif)
----
-
-### :fire: My Stats :
-
-![Stats](https://github-readme-stats.vercel.app/api?username=CanReader&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanReader&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=CanReader&theme=tokyonight)
----
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CanReader&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
 
-### 🌱 Contribution Graph
+## 🔥 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CanReader&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanReader&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=CanReader&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-### 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=CanReader&color=blueviolet)
+## 🏆 GitHub Trophies  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CanReader&theme=tokyonight&no-frame=true&margin-w=5"/>
+</div>
+
+---
+
+## 🌱 Contribution Graph  
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark"/>
+</div>
+
+---
+
+## 👁️ Profile Views  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CanReader&color=blueviolet&style=for-the-badge"/>
+</div>
+
