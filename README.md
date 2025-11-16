@@ -119,11 +119,3 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark"/>
 </div>
-
----
-
-## 👁️ Profile Views  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=CanReader&color=blueviolet&style=for-the-badge"/>
-</div>
-
