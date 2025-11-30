@@ -51,18 +51,20 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 <div align="center">
 
 ### **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,java,python,ts,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,java,python,ts,js,bash,php&theme=dark" />
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,visualstudio,git,github,gitlab,cmake,docker,postman,nginx,sqlite,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,visualstudio,git,github,gitlab,cmake,docker,postman,nginx,mysql,sqlite,postgres&theme=dark" />
 
 ### **Frameworks**
-<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,next,spring,django,flask,laravel&theme=dark" />
 
 ### **Technologies**
 <img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" /><br/>
 
 <img src="https://skillicons.dev/icons?i=qt,electron&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=docker,firebase,azure&theme=dark" />
 
 <div>
   <img src="https://www.iconshock.com/image/RealVista/Development/directx" height="40">&nbsp;
@@ -97,12 +99,15 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 
 ## 🔥 GitHub Stats
 
-<div align="center">
+<div align="center" style="flexbox">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CanReader&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanReader&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanReader&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=CanReader&theme=tokyonight&hide_border=true" height="180"/>
+![Demo Stats](https://streak-stats.demolab.com?user=CanReader&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CanReader?cardType=level&theme=tokyonight)
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanReader&theme=tokyonight)
 
 </div>
 
