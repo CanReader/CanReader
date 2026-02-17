@@ -51,7 +51,7 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 <div align="center">
 
 ### **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,java,python,ts,js,bash,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,java,python,ts,js,bash,php,go&theme=dark" />
 
 ### **Tools**
 <img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,visualstudio,git,github,gitlab,cmake,docker,postman,nginx,mysql,sqlite,postgres&theme=dark" />
@@ -116,6 +116,7 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 ## 🏆 GitHub Trophies  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=CanReader&theme=tokyonight&no-frame=true&margin-w=5"/>
+  
 </div>
 
 ---
