@@ -107,7 +107,8 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CanReader?cardType=level&theme=tokyonight)
 
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanReader&theme=tokyonight)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanReader&theme=tokyonight&card_height=200)
+![Top languages percent](https://git-stats.0xarchit.is-a.dev/api/top-langs?username=CanReader&locale=en&hide_title=false&layout=compact&card_width=320&card_height=400&langs_count=5&theme=dark&hide_border=false&order=2)
 
 </div>
 
