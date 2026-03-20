@@ -108,7 +108,7 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CanReader?cardType=level&theme=tokyonight)
 
 ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanReader&theme=tokyonight&card_height=200)
-![Top Langs](https://github-readme-stats-eight-cyan.vercel.app/api/top-langs/?username=CanReader&size_height=200&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-cyan.vercel.app/api/top-langs/?username=CanReader&size_height=200&theme=tokyonight&langs_count=8&hide=assembly,cmake,hlsl,glsl)
 <br/>
 ![Top languages Pie](https://github-readme-stats-eight-cyan.vercel.app/api/top-langs/?username=CanReader&layout=pie&theme=radical&hide=assembly)
 
