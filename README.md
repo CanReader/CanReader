@@ -137,3 +137,14 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark"/>
 </div>
+
+---
+
+## 🧊 3D Contribution Calendar
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-view.svg">
+  </picture>
+</div>
