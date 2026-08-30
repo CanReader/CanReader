@@ -133,17 +133,6 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./snake/github-snake.svg">
-    <img alt="Snake eating my contribution grid" src="./snake/github-snake-dark.svg">
-  </picture>
-</div>
-
----
-
 ## 🧊 3D Contribution Calendar
 <div align="center">
   <picture>
