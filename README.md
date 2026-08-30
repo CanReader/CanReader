@@ -133,9 +133,9 @@ I’m driven by the idea of creating **high-quality, clean, and scalable softwar
 
 ---
 
-## 🌱 Contribution Graph  
+## 📊 Coding Habits
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanReader&theme=react-dark"/>
+  <img src="./metrics.habits.svg" alt="Coding habits, lines changed and recent activity">
 </div>
 
 ---
